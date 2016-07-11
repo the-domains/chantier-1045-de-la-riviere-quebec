@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Suivi du chantier du 1045 de la rivière, Québec]]></title>
         <description><![CDATA[Suivi du chantier du 1045 de la rivière, Québec]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chantier-1045-de-la-riviere-quebec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 14:26:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 14:29:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chantier-1045-de-la-riviere-quebec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd0fb1ca-e181-4899-b218-0743a0eff47c.jpg">]]></description>
-            <link>undefinedvue-arriere-simulation-en-hiver/index.html</link>
+            <link>https://thegrid.ai/chantier-1045-de-la-riviere-quebec/vue-arriere-simulation-en-hiver/index.html</link>
             <guid isPermaLink="false">c76c6437-0bde-43e1-a870-3b18e169d5dc</guid>
             <pubDate>Mon, 11 Jul 2016 14:26:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/945ec897-790b-46e4-87e0-4e694b52b2dd.jpg">]]></description>
+            <link>https://thegrid.ai/chantier-1045-de-la-riviere-quebec/6d7248fc-a0c6-4b22-8b8a-167ff2276df5/index.html</link>
+            <guid isPermaLink="false">6d7248fc-a0c6-4b22-8b8a-167ff2276df5</guid>
+            <pubDate>Mon, 11 Jul 2016 14:29:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

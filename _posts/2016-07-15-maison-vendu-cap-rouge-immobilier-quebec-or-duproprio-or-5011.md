@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-15T18:24:23.486Z'
+datePublished: '2016-07-15T18:24:25.547Z'
 sourcePath: >-
   _posts/2016-07-15-maison-vendu-cap-rouge-immobilier-quebec-or-duproprio-or-5011.md
 isBasedOnUrl: 'http://duproprio.com/maison-a-vendre-cap-rouge-quebec-501183'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-15T18:24:03.942Z'
+dateModified: '2016-07-15T18:24:25.364Z'
 title: 'Maison vendu Cap-Rouge, immobilier Québec | DuProprio | 501183'
 app_links: []
 publisher:
@@ -16,7 +16,7 @@ publisher:
   domain: duproprio.com
 description: 'Tout à commencé par un petit jogging dans le voisinage... '
 inLanguage: fr
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
